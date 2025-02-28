@@ -4,6 +4,8 @@ By Siraju and Paula
 
 Data Source: https://www.politifact.com/
 
+Video: https://youtu.be/3GvympQ1Xtg
+
 Project Concept:
 A bobblehead acts as a live lie detector for statements made by politicians. In this prototype, three buttons correspond to statements made by Donald Trump, Joe Biden, and Elon Musk. When a button is pressed, a statement will play through the speaker, with the bobblehead moving if the statement is false and staying still if the statement is true.
 
